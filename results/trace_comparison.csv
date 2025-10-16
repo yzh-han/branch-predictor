@@ -1,0 +1,9 @@
+TraceName,TotalBranches,DirectBranches_pct,IndirectBranches_pct,ConditionalBranches_pct,UnconditionalBranches_pct,RegularBranches_pct,FunctionCalls_pct,FunctionReturns_pct,TakenBranches_pct,ConditionalTaken_pct,UniqueBranchLocations,UniqueCondBranchLocations,HighlyPredictableAll_pct,HighlyPredictableCond_pct,Top5HotspotPercentage
+bwaves,15105617,73.76,26.24,60.57,39.43,73.74,13.13,13.13,63.43,39.63,4961,3124,90.97,85.66,32.74
+cactusbssn,14634918,85.52,14.48,72.06,27.94,83.39,8.30,8.30,51.93,33.29,18876,8331,93.27,84.76,9.08
+exchange2,15203193,98.15,1.85,86.40,13.60,97.87,1.06,1.06,63.07,57.25,6753,4583,79.83,70.28,23.73
+gcc,14655608,87.18,12.82,70.70,29.30,81.37,9.31,9.31,57.01,39.20,18977,11169,90.98,84.68,8.43
+leela,15344502,82.79,17.21,58.12,41.88,65.70,17.15,17.15,64.74,39.33,3572,2137,89.39,82.26,37.78
+povray,15024530,84.20,15.80,67.27,32.73,76.29,11.85,11.85,54.90,32.97,12086,6931,90.52,83.47,10.39
+wrf,14488676,94.53,5.47,90.37,9.63,93.66,3.17,3.17,86.07,84.58,19084,8066,96.38,91.45,21.44
+xz,15291703,99.27,0.73,84.21,15.79,99.31,0.34,0.34,65.44,58.96,3308,2265,87.67,81.99,15.57

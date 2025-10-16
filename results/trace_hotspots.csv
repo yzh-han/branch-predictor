@@ -1,0 +1,9 @@
+TraceName,Hotspot1_Addr,Hotspot1_ExecPct,Hotspot1_TakenPct,Hotspot1_IsConditional,Hotspot2_Addr,Hotspot2_ExecPct,Hotspot2_TakenPct,Hotspot2_IsConditional,Hotspot3_Addr,Hotspot3_ExecPct,Hotspot3_TakenPct,Hotspot3_IsConditional,Hotspot4_Addr,Hotspot4_ExecPct,Hotspot4_TakenPct,Hotspot4_IsConditional,Hotspot5_Addr,Hotspot5_ExecPct,Hotspot5_TakenPct,Hotspot5_IsConditional
+bwaves,0x7f34ea5b1e7b,6.55,0.00,1,0x7f34ea5f08fb,6.55,0.00,1,0x7f34ea5f0af3,6.55,100.00,0,0x7f34ea5b1e79,6.55,0.00,1,0x555f30688140,6.55,100.00,0
+cactusbssn,0x55a233e5ab62,2.44,65.46,1,0x55a233e43955,1.87,99.95,1,0x55a233e5ab43,1.60,5.85,1,0x55a233e9cb52,1.59,98.81,1,0x55a233e9cb42,1.59,0.00,1
+exchange2,0x7f7b8430a3c4,6.12,96.02,1,0x7f7b8430a3bb,5.88,20.30,1,0x7f7b8430a337,4.65,11.89,1,0x7f7b8430a34f,4.65,78.43,1,0x7f7b8430a302,2.44,90.00,1
+gcc,0x56490975e81a,1.85,100.00,1,0x56490975e7fa,1.85,0.01,1,0x56490975e80a,1.85,2.67,1,0x56490975e80e,1.80,0.00,1,0x56490975e012,1.09,85.12,1
+leela,0x55b38b465a7b,7.56,100.00,0,0x55b38b45dfde,7.56,100.00,0,0x55b38b465a87,7.56,87.50,1,0x55b38b465a6c,7.56,100.00,0,0x55b38b4598de,7.56,100.00,0
+povray,0x55d7b9b729b3,2.09,73.96,1,0x55d7b9b729c3,2.09,0.83,1,0x55d7b9b729d9,2.09,100.00,0,0x55d7b9b729c9,2.07,2.20,1,0x55d7b9b729ce,2.04,0.15,1
+wrf,0x7ff6d472cd3a,9.67,99.75,1,0x7ff6d472e42a,8.00,99.78,1,0x5637d965ed4c,1.47,100.00,1,0x5637d836cf3d,1.15,98.81,1,0x5637d82db365,1.15,98.81,1
+xz,0x55b1cd6d0021,3.40,100.00,1,0x55b1cd6c4c07,3.04,0.02,1,0x55b1cd6c4c00,3.04,0.00,1,0x55b1cd6c4c14,3.04,88.97,1,0x55b1cd6c4c5a,3.04,11.77,1

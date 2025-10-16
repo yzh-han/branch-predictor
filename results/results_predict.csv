@@ -1,0 +1,33 @@
+TraceFile,Predictor,TotalBranches,Mispredictions,MispredictionRate
+exchange2_cutted,Always Taken,3000000,1099093,36.64
+exchange2_cutted,2-bit (512),3000000,338149,11.27
+exchange2_cutted,2-bit (1024),3000000,324392,10.81
+exchange2_cutted,2-bit (2048),3000000,314869,10.50
+exchange2_cutted,2-bit (4096),3000000,310537,10.35
+exchange2_cutted,gshare (2048),3000000,227559,7.59
+exchange2_cutted,Profiled (2048),3000000,362268,12.08
+exchange2_cutted,Profiled 2-bit (2048),3000000,314574,10.49
+gcc_cutted,Always Taken,3000000,1279614,42.65
+gcc_cutted,2-bit (512),3000000,508199,16.94
+gcc_cutted,2-bit (1024),3000000,349184,11.64
+gcc_cutted,2-bit (2048),3000000,242625,8.09
+gcc_cutted,2-bit (4096),3000000,194637,6.49
+gcc_cutted,gshare (2048),3000000,349322,11.64
+gcc_cutted,Profiled (2048),3000000,368967,12.30
+gcc_cutted,Profiled 2-bit (2048),3000000,242629,8.09
+leela_cutted,Always Taken,3000000,1088414,36.28
+leela_cutted,2-bit (512),3000000,335501,11.18
+leela_cutted,2-bit (1024),3000000,330581,11.02
+leela_cutted,2-bit (2048),3000000,330069,11.00
+leela_cutted,2-bit (4096),3000000,328971,10.97
+leela_cutted,gshare (2048),3000000,153542,5.12
+leela_cutted,Profiled (2048),3000000,343223,11.44
+leela_cutted,Profiled 2-bit (2048),3000000,329572,10.99
+wrf_cutted,Always Taken,3000000,268807,8.96
+wrf_cutted,2-bit (512),3000000,40959,1.37
+wrf_cutted,2-bit (1024),3000000,37534,1.25
+wrf_cutted,2-bit (2048),3000000,37134,1.24
+wrf_cutted,2-bit (4096),3000000,33148,1.10
+wrf_cutted,gshare (2048),3000000,39268,1.31
+wrf_cutted,Profiled (2048),3000000,48227,1.61
+wrf_cutted,Profiled 2-bit (2048),3000000,36812,1.23
