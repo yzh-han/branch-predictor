@@ -4,6 +4,9 @@ This is a branch predictor performance analysis project that implements multiple
 
 This is a coursework for Computer Architecture course at the University of St Andrews.
 
+## Trace files
+Download [trace files](https://drive.google.com/drive/folders/1M8-p5ltp0Yb6Cu92aSeBpabiXMBXXlLY?usp=sharing), and put to `trace/`.
+
 ## Usage
 
 ### shell script
